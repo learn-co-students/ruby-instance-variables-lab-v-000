@@ -43,8 +43,8 @@ Open `dog.rb` inside the `lib` folder. This is where we'll create our Dog class.
 
 ```ruby
 class Dog
-  def name=(dog_name)
-    this_dogs_name = dog_name
+  def name=(dogs_name)
+    this_dogs_name = dogs_name
   end
 
   def name

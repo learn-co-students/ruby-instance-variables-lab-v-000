@@ -8,3 +8,7 @@ class Dog
   end
 end
 
+snoopy = Dog.new
+snoopy.name = "Snoopy"
+
+puts snoopy.name

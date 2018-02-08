@@ -24,4 +24,9 @@ describe 'Dog' do
     end
   end
 
+  lassie = Dog.new
+  lassie.name = "Lassie"
+
+  lassie.name #=> "Lassie"
+  
 end
